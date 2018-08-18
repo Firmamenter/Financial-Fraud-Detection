@@ -1,0 +1,7 @@
+https://www.quora.com/What-is-the-difference-between-principal-component-analysis-PCA-and-feature-selection-in-machine-learning-Is-PCA-a-means-of-feature-selection
+
+https://stackoverflow.com/questions/23294616/how-to-use-scikit-learn-pca-for-features-reduction-and-know-which-features-are-d
+
+https://stackoverflow.com/questions/16249625/difference-between-pca-principal-component-analysis-and-feature-selection
+
+https://stackoverflow.com/questions/30779009/why-does-classifier-accuracy-drop-after-pca-even-though-99-of-the-total-varian

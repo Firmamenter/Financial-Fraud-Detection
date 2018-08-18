@@ -1,0 +1,84 @@
+1.GaussianNB 
+5-fold
+Cross-validation accuracy: 0.991809528454
+Cross-validation running time 0:00:10.093174
+
+10-fold
+Cross-validation accuracy: 0.991891929939
+Cross-validation running time 0:00:17.373046
+
+20-fold
+Cross-validation accuracy: 0.991990271484
+Cross-validation running time 0:00:34.873378
+
+Training accuracy: 0.99208704231
+Testing accuracy: 0.992232759461
+Total running time 0:00:04.842681
+
+2.Random Forest
+5-fold
+Cross-validation accuracy: 0.998708752954
+Cross-validation running time 0:02:54.654590
+
+10-fold
+Cross-validation accuracy: 0.998708303905
+Cross-validation running time 0:06:22.706936
+
+20-fold
+Cross-validation accuracy: 0.99870987559
+Cross-validation running time 0:13:47.822305
+
+Training accuracy: 0.998709875581
+Testing accuracy: 0.99874318022
+Total running time 0:01:34.247670
+
+3.LDA
+5-fold
+Cross-validation accuracy: 0.999007821131
+Cross-validation running time 0:00:15.825909
+
+10-fold
+Cross-validation accuracy: 0.999008045652
+Cross-validation running time 0:00:33.544437
+
+20-fold
+Cross-validation accuracy: 0.999007147564
+Cross-validation running time 0:01:08.417088
+
+Training accuracy: 0.999006473973
+Testing accuracy: 0.999006698498
+Total running time 0:00:07.852518
+
+4.QDA
+5-fold
+Cross-validation accuracy: 0.995311006204
+Cross-validation running time 0:00:11.459981
+
+10-fold
+Cross-validation accuracy: 0.995470868651
+Cross-validation running time 0:00:21.945389
+
+20-fold
+Cross-validation accuracy: 0.995597500974
+Cross-validation running time 0:00:49.570199
+
+Training accuracy: 0.995716499537
+Testing accuracy: 0.995663212115
+Total running time 0:00:05.598940
+
+5.Logistic Regression
+5-fold
+Cross-validation accuracy: 0.998718407552
+Cross-validation running time 0:04:26.738041
+
+10-fold
+Cross-validation accuracy: 0.99833850963
+Cross-validation running time 0:10:15.453802
+
+20-fold
+Cross-validation accuracy: 0.998717734182
+Cross-validation running time 0:21:50.621036
+
+Training accuracy: 0.998349736429
+Testing accuracy: 0.998287393139
+Total running time 0:01:11.642010

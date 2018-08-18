@@ -1,0 +1,84 @@
+1.GaussianNB (Results are better?!) 
+5-fold
+Cross-validation accuracy: 0.996631666043
+Cross-validation running time 0:00:03.754989
+
+10-fold
+Cross-validation accuracy: 0.996889870856
+Cross-validation running time 0:00:05.089511
+
+20-fold
+Cross-validation accuracy: 0.997098005776
+Cross-validation running time 0:00:09.462958
+
+Training accuracy: 0.997289975334
+Testing accuracy: 0.997282042094
+Total running time 0:00:01.689691
+
+2.Random Forest 
+5-fold
+Cross-validation accuracy: 0.998699322876
+Cross-validation running time 0:02:11.503207
+
+10-fold
+Cross-validation accuracy: 0.998699771927
+Cross-validation running time 0:05:17.775770
+
+20-fold
+Cross-validation accuracy: 0.99869977193
+Cross-validation running time 0:11:17.271766
+
+Training accuracy: 0.998699771927
+Testing accuracy: 0.99873322625
+Total running time 0:01:16.188922
+
+3.LDA
+5-fold
+Cross-validation accuracy: 0.99869909835
+Cross-validation running time 0:00:05.157954
+
+10-fold
+Cross-validation accuracy: 0.998699098351
+Cross-validation running time 0:00:09.628303
+
+20-fold
+Cross-validation accuracy: 0.998699098354
+Cross-validation running time 0:00:17.814010
+
+Training accuracy: 0.99869909835
+Testing accuracy: 0.998732702356
+Total running time 0:00:02.426151
+
+4.QDA (Results are better?!)
+5-fold
+Cross-validation accuracy: 0.996630543415
+Cross-validation running time 0:00:04.399090
+
+10-fold
+Cross-validation accuracy: 0.996888299177
+Cross-validation running time 0:00:07.380555
+
+20-fold
+Cross-validation accuracy: 0.997095985046
+Cross-validation running time 0:00:14.456079
+
+Training accuracy: 0.997288403654
+Testing accuracy: 0.997279946521
+Total running time 0:00:01.887205
+
+5.Logistic Regression (Results are better?!)
+5-fold
+Cross-validation accuracy: 0.99869909835
+Cross-validation running time 0:01:08.261327
+
+10-fold
+Cross-validation accuracy: 0.998699098351
+Cross-validation running time 0:02:44.488533
+
+20-fold
+Cross-validation accuracy: 0.998699098354
+Cross-validation running time 0:06:13.381182
+
+Training accuracy: 0.99869909835
+Testing accuracy: 0.998732702356
+Total running time 0:00:42.173594
